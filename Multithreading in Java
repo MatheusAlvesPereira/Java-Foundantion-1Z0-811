@@ -1,0 +1,9 @@
+https://www.digitalocean.com/community/tutorials/multithreading-in-java
+
+
+How does Java Support Multithreading?
+Java has great support for multithreaded applications. 
+Java supports multithreading through Thread class. 
+Java Thread allows us to create a lightweight process that executes some tasks.
+We can create multiple threads in our program and start them. 
+Java runtime will take care of creating machine-level instructions and work with OS to execute them in parallel.
