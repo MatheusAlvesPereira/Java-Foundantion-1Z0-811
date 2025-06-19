@@ -3,5 +3,10 @@ public class Main {
         System.out.println("Hello and welcome!");
         PreIncrement preincrement = new PreIncrement();
         preincrement.preIncrementShow();
+
+        PostIncrement postIncrement = new PostIncrement();
+        postIncrement.postIncrement();
+
+
     }
 }

@@ -4,6 +4,6 @@ public class PreIncrement {
         int integerNumber = 10;
         int preincrementNumber = ++integerNumber;
 
-        System.out.printf("10 + 1 increment " + String.valueOf(preincrementNumber));
+        System.out.printf("This is an pre-increment 10 + 1 increment " + String.valueOf(preincrementNumber));
     }
 }
