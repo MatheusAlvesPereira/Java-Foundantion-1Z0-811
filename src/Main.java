@@ -7,6 +7,7 @@ public class Main {
         PostIncrement postIncrement = new PostIncrement();
         postIncrement.postIncrement();
 
-
+        PrimitiveTypes primitiveTypes = new PrimitiveTypes();
+        primitiveTypes.primitiveTypes();
     }
 }
