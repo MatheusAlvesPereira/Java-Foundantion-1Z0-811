@@ -9,5 +9,8 @@ public class Main {
 
         PrimitiveTypes primitiveTypes = new PrimitiveTypes();
         primitiveTypes.primitiveTypes();
+
+        Arrays Arrays = new Arrays();
+        Arrays.printCarsArray();
     }
 }

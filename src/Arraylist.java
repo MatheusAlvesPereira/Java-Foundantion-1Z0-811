@@ -3,4 +3,5 @@
 
 public class Arraylist {
     String[] fruitsArray = new String[4];
+
 }
