@@ -12,5 +12,8 @@ public class Main {
 
         Arrays Arrays = new Arrays();
         Arrays.printCarsArray();
+
+        OverloadingMethod overloadingMethod = new OverloadingMethod();
+        overloadingMethod.showOverLoadingMethod();
     }
 }
